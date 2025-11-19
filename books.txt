@@ -1,0 +1,11 @@
+[
+{ id: 1, title: "Władca Pierścieni", author: "J.R.R. Tolkien", genre: 1, rating: 5 },
+{ id: 2, title: "Hobbit", author: "J.R.R. Tolkien", genre: 1, rating: 4 },
+{ id: 3, title: "Zaginiona Dziedzina", author: "Anna Nowak", genre: 1, rating: 3 },
+{ id: 4, title: "Morderstwo w Orient Expressie", author: "Agatha Christie", genre: 2, rating: 5 },
+{ id: 5, title: "Cisza przed burzą", author: "Jan Kowalski", genre: 2, rating: 2 },
+{ id: 6, title: "Tajemnica starego młyna", author: "Ewa Zielińska", genre: 2, rating: 3 },
+{ id: 7, title: "Krótka historia niemal wszystkiego", author: "Bill Bryson", genre: 3, rating: 4 },
+{ id: 8, title: "Fizyka dla ciekawych", author: "Piotr Malinowski", genre: 3, rating: 1 },
+{ id: 9, title: "Biologia w pigułce", author: "Magdalena Bąk", genre: 3, rating: 0 }
+]
